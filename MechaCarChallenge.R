@@ -19,3 +19,12 @@ lot_summary <- Suspension_coil_table %>% group_by(Manufacturing_Lot) %>% summari
 
 
 #Deliverable 3
+# T-test to determine if PSI across all manufacturing lots is statistically different.
+t.test(Suspension_coil_table$PSI, mu=1500)
+# Determine if PSI across each lot is different from population mean
+#lot 1
+t.test(subset(Suspension_coil_table, Manufacturing_Lot =="Lot1")$PSI, mu= 1500)
+#lot 2
+t.test(subset(Suspension_coil_table, Manufacturing_Lot =="Lot2")$PSI, mu= 1500)
+#lot 3
+t.test(subset(Suspension_coil_table, Manufacturing_Lot =="Lot3")$PSI, mu= 1500)

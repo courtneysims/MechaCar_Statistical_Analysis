@@ -1,2 +1,8 @@
 # MechaCar_Statistical_Analysis
-Statistical study to compare vehicle performance of the MechaCar vehicles
+
+## Overview
+ A statistical study to compare vehicle performance of the MechaCar vehicles.
+
+## Linear Regression to Predict MPG
+
+
