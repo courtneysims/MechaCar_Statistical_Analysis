@@ -44,15 +44,15 @@ The p-value is 0.06, above the assumed significant level. The mean across all ma
 
 * T-test of **lot 1, lot 2, lot 3** separately. 
 
-lot 1 ![image](https://github.com/courtneysims/MechaCar_Statistical_Analysis/blob/226302360c31ea4d99406cd6a1a1f9cf509921d5/Resources/t_test_Lot1.PNG)
+lot 1 ![image](https://github.com/courtneysims/MechaCar_Statistical_Analysis/blob/8963c87aa7321c008ed8c15bae935ba544e9666a/Resources/t_test_Lot1.PNG)
 
 The p-value is 1. Therefore, cannot reject null hypothesis. lot 1 is not statistically different from the population mean of 1500.
 
-lot 2 ![image](https://github.com/courtneysims/MechaCar_Statistical_Analysis/blob/226302360c31ea4d99406cd6a1a1f9cf509921d5/Resources/t_test_Lot2.PNG)
+lot 2 ![image](https://github.com/courtneysims/MechaCar_Statistical_Analysis/blob/8963c87aa7321c008ed8c15bae935ba544e9666a/Resources/t_test_Lot2.PNG)
 
 The p-value is 0.6. Therefore, cannot reject null hypothesis. lot 2 is not statistically different from the population mean of 1500.
 
-lot 3 ![image](https://github.com/courtneysims/MechaCar_Statistical_Analysis/blob/226302360c31ea4d99406cd6a1a1f9cf509921d5/Resources/t_test_Lot3.PNG)
+lot 3 ![image](https://github.com/courtneysims/MechaCar_Statistical_Analysis/blob/8963c87aa7321c008ed8c15bae935ba544e9666a/Resources/t_test_Lot3.PNG)
 
 The p-value is 0.04. Lot 3 is statistically different from the population mean of 1500. 
 
