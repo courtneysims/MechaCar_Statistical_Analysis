@@ -59,7 +59,7 @@ The p-value is 0.04. Lot 3 is statistically different from the population mean o
 
 ## Study Design: MechaCar vs Competition
 
-A study to compare MechaCar vs Competition should include the different classes of vehicles MechaCar seeks to market in. The two metrics I would like to test:
+A study to compare MechaCar vs Competition should include the different classes of vehicles MechaCar seeks to market in. The metrics I would like to test:
 
  * Safety ratings for each class compared to the competion  
     * data including crash tests from the NHTSA Saftey Ratings Program 
@@ -75,4 +75,4 @@ The null hypothesis would be that MechaCar's performance in these metrics for co
 
 
 
-An ANOVA analysis would be needed to establish if differences exist to determine MechaCar's competitiveness against several manufacturers. The ANOVA test is able to determine effects multiple categories may have such as the effect of engine size at different trim packages on the sale price. If the p-value is less than 0.05, the null hypothesis is rejected. This indicates that MechaCar does perform statistically different in the tested metrics. The t-test would be appropriate to determine if a model of MechaCar is statistically different from the vehicle type population. 
+An ANOVA analysis would be needed to establish if differences exist to determine MechaCar's competitiveness against several manufacturers. The ANOVA test is able to determine effects multiple categories may have such as the effect of engine size at different trim packages on the sale price. If the p-value is less than 0.05, the null hypothesis is rejected. This indicates that MechaCar does perform statistically different in the tested metrics. The t-test would be appropriate to determine if the safety rating performance for MechaCar is statistically different from the vehicle type population. 
